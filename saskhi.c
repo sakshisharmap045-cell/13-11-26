@@ -1,3 +1,11 @@
 #include<stdio.h>
-int main();
-printf(i=11);
+int main()
+{
+    int a,b,sum;
+    printf("hello world");
+    scanf("%d%d",&a,&b);
+    sum=a+b;
+    printf("sum is %d",sum);
+    return 0;
+}
+
